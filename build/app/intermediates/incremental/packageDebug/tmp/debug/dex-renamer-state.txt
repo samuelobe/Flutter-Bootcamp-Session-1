@@ -1,0 +1,4 @@
+#Sat Jun 06 22:19:08 EDT 2020
+base.0=/home/sam/Dev/Flutter-Bootcamp-Session-1/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
